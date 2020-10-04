@@ -1,4 +1,4 @@
-﻿body {
+body {
     text-align:center;
 }
 
@@ -59,8 +59,7 @@ header{
 .content-area{
     width:100%;
     position: relative;
-    top:450px;
-    background: #c3f8e4;
+    background: #1e1e1e;
     height: 3000px
 }
 
